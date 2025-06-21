@@ -21,3 +21,4 @@ choco install awscli -y
 choco install corretto17jdk -y
 ```
 ```
+choco install vmwareworkstation -y
