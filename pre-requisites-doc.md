@@ -5,8 +5,19 @@
 ```
 choco install virtualbox -y
 ```
-- choco install vagrant -y
-- choco install git -y
-- choco install maven -y
-- choco install awscli -y
-- choco install 
+```
+choco install vagrant -y
+```
+```
+choco install git -y
+```
+```
+choco install maven -y
+```
+```
+choco install awscli -y
+```
+```
+choco install corretto17jdk -y
+```
+```
