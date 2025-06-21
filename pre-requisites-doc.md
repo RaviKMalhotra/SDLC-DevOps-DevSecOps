@@ -22,3 +22,13 @@ choco install corretto17jdk -y
 ```
 ```
 choco install vmwareworkstation -y
+```
+```
+choco install intellijidea-community -y
+```
+```
+choco install vscode -y
+```
+```
+choco install sublimetext3.app -y
+
