@@ -36,4 +36,10 @@
 - as in Elixir --> for flagd-ui = allows toggling and editing of feature flags.
 - as in Kotlin --> fraud detection = Analyzes incoming orders and detects fraud attempts
 - as in Typescript --> for frontend = exposes an HTTP server to serve the website. does not require sign-up/login and generates Session IDs for all users automatically.
-- as python/Locust --> for load-generator = 
+- as python/Locust --> for load-generator = continuously sends requess imitating realistic user shopping flows to the frontend
+- as JavaScript --> for payment = charges the given credit card info with the given amount and returns a transaction ID
+- as Go --> for product catalog =
+- as PHP --> for quotes
+- as Python --> for recommendation
+- as Rust --> for Shiping
+- as TypeScript --> for react-native-app
